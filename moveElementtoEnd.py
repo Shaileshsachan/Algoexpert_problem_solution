@@ -10,5 +10,6 @@ def moveElementToEnd(array, toMove):
         i += 1
     return array
 
-array = [1,2, 3, 2, 4,5 ,6, 2, 2,2, 2]
+
+array = [1, 2, 3, 2, 4, 5, 6, 2, 2, 2, 2]
 print(moveElementToEnd(array, 2))
